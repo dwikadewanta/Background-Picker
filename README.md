@@ -43,11 +43,11 @@ Follow the steps below to run this project on your local machine:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/username/repo-name.git
+    https://github.com/dwikadewanta/Background-Picker.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd repo-name
+    cd Background-Picker
     ```
 3. Install the required dependencies:
     ```bash
